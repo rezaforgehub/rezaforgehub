@@ -1,7 +1,3 @@
-## Hi there 👋
-
-![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
-
 # Hi, I'm Mohamad Reza! 👋
 
 A passionate web developer from Iran 🇮🇷
